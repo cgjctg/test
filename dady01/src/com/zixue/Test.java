@@ -6,5 +6,8 @@ public class Test {
 
         //功能1
         System.out.println("day01");
+
+        //功能2
+        System.out.println("");
     }
 }
